@@ -18,6 +18,7 @@ so total container width = 640 + 40*4 = 800px;
 default width = 800/5 = 160px;
 */
 
+
 .accordian {
 	width: 805px; height: 320px;
 	overflow: hidden;
